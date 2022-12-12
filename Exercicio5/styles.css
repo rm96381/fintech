@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+  }
+  
+.logo {
+  color: blue;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#alerta {
+  display: none;
+}
+#alerta {
+  display: none;
+}
+
+/*  */
+@media screen and (max-width: 992px) {
+  body {
+    background-color: LightGray;
+  }
+}
+
+/*  */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: lightskyblue;
+  }
+}
